@@ -1,7 +1,8 @@
 # Global-Superstore---PowerBI-Sales-Dashboard
 
-Microsoft PowerBI Sales Dashboard for Global superstore dataset.
+PowerBI Sales Dashboard for Global superstore dataset.
 
 Description of files:
 
-1. Global-Superstore---PowerBI-Sales-Dashboard.
+1. Global-Superstore---PowerBI-Sales-Dashboard.pbix - PowerBI Dashboard file
+2. Global-Superstore---PowerBI-Sales-Snapshot.png - PowerBI Dashboard snapshot/screen capture
