@@ -14,4 +14,4 @@ https://bit.ly/GlobalSalesDashboard
 
 The snapshot for the dashboard is published at the following link on imgur image hosting platform:
 
-https://bit.ly/GlobalSalesSnapshot
+https://bit.ly/GlobalSalesBISnapshot
